@@ -5,10 +5,10 @@ This project demonstrates the 3D reconstruction technique known as Space Carving
 ## Bunny Dataset
 The Bunny dataset is sourced from [TUM Computer Vision Group](https://cvg.cit.tum.de/data/datasets/3dreconstruction).
 
-[Bunny Reconstruction from Silhouettes](https://github.com/Zihan53/space-carving/blob/main/Bunny_result.gif)
+<img src="Bunny_result.gif" alt="Alt text" title="Bunny Reconstruction from Silhouettes">
 
 ## Dino Dataset
 The Dino dataset is sourced from [Middlebury Vision](https://vision.middlebury.edu/mview/data/).
 
-[Dino Reconstruction from Real World Images](https://github.com/Zihan53/space-carving/blob/main/Dino_result.gif)
+<img src="Dino_result.gif" alt="Alt text" title="Dino Reconstruction from Real World Images">
 
